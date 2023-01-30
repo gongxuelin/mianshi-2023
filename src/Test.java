@@ -3,5 +3,6 @@ public class Test {
         int SPEED=0;
         System.out.println("测试git");
         System.out.println("hot-fix");
+        System.out.println("分支冲突");
     }
 }
