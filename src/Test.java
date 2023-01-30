@@ -7,6 +7,6 @@ public class Test {
         System.out.println("hot-fix  修改");
         System.out.println("分支冲突2");
         System.out.println("pushTest");
-        //测试pull
+        System.out.println("测试ssh链接");
     }
 }
