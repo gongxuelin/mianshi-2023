@@ -6,5 +6,6 @@ public class Test {
         System.out.println("分支冲突");
         System.out.println("hot-fix  修改");
         System.out.println("分支冲突2");
+        System.out.println("pushTest");
     }
 }
