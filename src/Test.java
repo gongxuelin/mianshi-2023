@@ -8,5 +8,6 @@ public class Test {
         System.out.println("分支冲突2");
         System.out.println("pushTest");
         System.out.println("测试ssh链接");
+        System.out.println("push远程");
     }
 }
